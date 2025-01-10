@@ -45,8 +45,8 @@ This is a **Full Stack Employee Management System** built with **Java Spring Boo
 ### Backend (Spring Boot)
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/employee-management-system.git
-   cd employee-management-system
+   git https://github.com/coder5omkar/EMS_FullStack_Java_React.git
+   cd EMS_FullStack_Java_React
    ```
 
 2. **Update MySQL Configuration**:
