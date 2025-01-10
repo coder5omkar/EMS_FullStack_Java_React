@@ -130,7 +130,7 @@ This project is built and maintained by **[Omkar Amale]**. Feel free to contribu
 ---
 
 ## Credits
-This project is built and maintained by **[Ramesh Fadtare]**. Course reference: [Full Stack Java Development with Spring Boot & React](https://synechron.udemy.com/course/full-stack-java-development-with-spring-boot-react/learn/lecture/38718748#overview) on Udemy.
+This project is inspired from **[Ramesh Fadtare]**. Course reference: [Full Stack Java Development with Spring Boot & React](https://synechron.udemy.com/course/full-stack-java-development-with-spring-boot-react/learn/lecture/38718748#overview) on Udemy.
 
 
 ## License
